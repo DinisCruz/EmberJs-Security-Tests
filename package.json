@@ -1,0 +1,23 @@
+{
+  "name": "emberjs-security-tests",
+  "version": "1.0.0",
+  "description": "Security tests for EmberJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/karma start karma.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DinisCruz/EmberJs-Security-Tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DinisCruz/EmberJs-Security-Tests/issues"
+  },
+  "homepage": "https://github.com/DinisCruz/EmberJs-Security-Tests#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "karma": "^1.1.1"
+  }
+}
